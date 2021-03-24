@@ -32,5 +32,163 @@
 			"nimike": "Virkamiehen kidnappaus / vapaudenriisto",
 			"tuomio": [24, 80]
 		}
+	],
+	"henkeenJaTerveyteenKohdistuvatRikokset": [
+		{
+			"nimike": "Pahoinpitely",
+			"tuomio": []
+		},
+		{
+			"nimike": "Vammantuottamus",
+			"tuomio": [24, 80]
+		},
+		{
+			"nimike": "Heitteillejättö",
+			"tuomio": [24, 80]
+		},
+		{
+			"nimike": "Törkeä pahoinpitely",
+			"tuomio": [3, 9]
+		},
+		{
+			"nimike": "Vapaudenriisto",
+			"tuomio": [3, 12]
+		},
+		{
+			"nimike": "Törkeä vapaudenriisto",
+			"tuomio": [12, 24]
+		},
+		{
+			"nimike": "Panttivangin ottaminen",
+			"tuomio": [9, 16]
+		},
+		{
+			"nimike": "Törkeä vammantuottamus",
+			"tuomio": [1, 3]
+		},
+		{
+			"nimike": "Kuolemantuottamus",
+			"tuomio": [1, 3]
+		},
+		{
+			"nimike": "Kidutus",
+			"tuomio": [6, 18]
+		},
+		{
+			"nimike": "Surma",
+			"tuomio": [6, 12]
+		},
+		{
+			"nimike": "Tapon yritys",
+			"tuomio": [12, 24]
+		},
+		{
+			"nimike": "Tappo",
+			"tuomio": [24, 48]
+		},
+		{
+			"nimike": "Murhan yritys",
+			"tuomio": [24, 80]
+		},
+		{
+			"nimike": "Murha",
+			"tuomio": [80, 150]
+		}
+	],
+	"liikennerikkomukset": [
+		{
+			"nimike": "Liikennepako",
+			"tuomio": []
+		},
+		{
+			"nimike": "Rattijuopumus",
+			"tuomio": []
+		},
+		{
+			"nimike": "Törkeä rattijuopumus",
+			"tuomio": []
+		}
+	],
+	"ryostoJaKiristys": [
+		{
+			"nimike": "Moottorikulkuneuvon käyttövarkaus",
+			"tuomio": []
+		},
+		{
+			"nimike": "Kiristys",
+			"tuomio": []
+		},
+		{
+			"nimike": "Varkauden yritys",
+			"tuomio": []
+		},
+		{
+			"nimike": "Varkaus",
+			"tuomio": []
+		},
+		{
+			"nimike": "Ryöstön yritys",
+			"tuomio": []
+		},
+		{
+			"nimike": "Ryöstö",
+			"tuomio": []
+		},
+		{
+			"nimike": "Törkeä ryöstö",
+			"tuomio": []
+		},
+		{
+			"nimike": "Murto",
+			"tuomio": []
+		},
+		{
+			"nimike": "Murtovarkaus",
+			"tuomio": []
+		},
+		{
+			"nimike": "Julkisrauhan rikkominen",
+			"tuomio": []
+		}
+	],
+	"huumaisainerikokset": [
+		{
+			"nimike": "Huumausaine käyttörikos (1-10g)",
+			"tuomio": []
+		},
+		{
+			"nimike": "Lievä huumausainerikos (10-50g)",
+			"tuomio": []
+		},
+		{
+			"nimike": "Huumausainerikoksen edistäminen",
+			"tuomio": []
+		},
+		{
+			"nimike": "Törkeä huumausainerikos 50-250g",
+			"tuomio": []
+		},
+		{
+			"nimike": "Erittäin törkeä huumausainerikos 250-500g",
+			"tuomio": []
+		},
+		{
+			"nimike": "Erittäin törkeä huumausainerikos 500g ->",
+			"tuomio": []
+		},
+		{
+			"nimike": "Huumausaineiden valmistus",
+			"tuomio": []
+		}
+	],
+	"ampumaaserikokset": [
+		{
+			"nimike": "Ampuma-aserikos",
+			"tuomio": []
+		},
+		{
+			"nimike": "Törkeä ampuma-aserikos (käytetty)",
+			"tuomio": []
+		}
 	]
 }
