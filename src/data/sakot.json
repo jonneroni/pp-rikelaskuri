@@ -1,0 +1,532 @@
+{
+	"rikesakko": [
+		{
+			"nimike": "Rikesakko",
+			"sakko": 20
+		}
+	],
+	"rikoksetViranomaistaVastaan": [
+		{
+			"nimike": "Virkamiehen vastustaminen",
+			"sakko": 100
+		},
+		{
+			"nimike": "Virkamiehen väkivaltainen vastustaminen",
+			"sakko": 200
+		},
+		{
+			"nimike": "Haitanteko virkamiehelle",
+			"sakko": 75
+		},
+		{
+			"nimike": "Niskoittelu poliisia vastaan",
+			"sakko": 100
+		},
+		{
+			"nimike": "Virkavallan anastus pukeutuminen",
+			"sakko": 300
+		},
+		{
+			"nimike": "Virkavallan anastus tehty rikoksia",
+			"sakko": 300
+		},
+		{
+			"nimike": "Lahjuksen antaminen",
+			"sakko": 100
+		},
+		{
+			"nimike": "Törkeä lahjuksen antaminen",
+			"sakko": 250
+		},
+		{
+			"nimike": "Vangin laiton vapauttaminen",
+			"sakko": 500
+		},
+		{
+			"nimike": "Vangin karkaaminen",
+			"sakko": 200
+		},
+		{
+			"nimike": "Virkamiehen murhayritys",
+			"sakko": 400
+		}
+	],
+	"rikoksetYleistaJarjestystaVastaan": [
+		{
+			"nimike": "Julkinen kehottaminen rikokseen",
+			"sakko": 150
+		},
+		{
+			"nimike": "Järjestäytyneen rikollisryhmän toimintaan osallistuminen",
+			"sakko": 150
+		},
+		{
+			"nimike": "Mellakka",
+			"sakko": 150
+		},
+		{
+			"nimike": "Väkivaltainen mellakka",
+			"sakko": 300
+		},
+		{
+			"nimike": "Väkivaltaisen mellakan johtaminen",
+			"sakko": 450
+		},
+		{
+			"nimike": "Järjestystä ylläpitävän henkilön vastustaminen",
+			"sakko": 120
+		},
+		{
+			"nimike": "Omankädenoikeus",
+			"sakko": 50
+		},
+		{
+			"nimike": "Ilkivalta",
+			"sakko": 80
+		},
+		{
+			"nimike": "Laiton naamioituminen",
+			"sakko": 30
+		}
+	],
+	"henkeenJaTerveyteenKohdistuvatRikokset": [
+		{
+			"nimike": "Tapon yritys",
+			"sakko": 300
+		},
+		{
+			"nimike": "Tappo",
+			"sakko": 600
+		},
+		{
+			"nimike": "Murhan yritys",
+			"sakko": 400
+		},
+		{
+			"nimike": "Murha",
+			"sakko": 1000
+		},
+		{
+			"nimike": "Surma",
+			"sakko": 350
+		},
+		{
+			"nimike": "Lievä pahoinpitely",
+			"sakko": 80
+		},
+		{
+			"nimike": "Pahoinpitely",
+			"sakko": 150
+		},
+		{
+			"nimike": "Törkeä pahoinpitely",
+			"sakko": 250
+		},
+		{
+			"nimike": "Törkeä henkeen tai terveyteen kohdistuvan rikoksen valmistelu",
+			"sakko": 80
+		},
+		{
+			"nimike": "Kuolemantuottamus",
+			"sakko": 200
+		},
+		{
+			"nimike": "Törkeä kuolemantuottamus",
+			"sakko": 300
+		},
+		{
+			"nimike": "Vammantuottamus",
+			"sakko": 75
+		},
+		{
+			"nimike": "Törkeä vammantuottamus",
+			"sakko": 150
+		},
+		{
+			"nimike": "Tappeluun osallistuminen",
+			"sakko": 75
+		},
+		{
+			"nimike": "Vaaran aiheuttaminen",
+			"sakko": 50
+		},
+		{
+			"nimike": "Heitteillepano",
+			"sakko": 80
+		},
+		{
+			"nimike": "Pelastustoimen laiminlyönti",
+			"sakko": 100
+		}
+	],
+	"liikennerikkomukset": [
+		{
+			"nimike": "Liikenneturvallisuuden vaarantaminen",
+			"sakko": 130
+		},
+		{
+			"nimike": "Törkeä liikenneturvallisuuden vaarantaminen",
+			"sakko": 250
+		},
+		{
+			"nimike": "Rattijuopumus",
+			"sakko": 100
+		},
+		{
+			"nimike": "Törkeä rattijuopumus",
+			"sakko": 200
+		},
+		{
+			"nimike": "Ilmaliikennejuopumus",
+			"sakko": 200
+		},
+		{
+			"nimike": "Kulkuneuvon luovuttaminen juopuneelle",
+			"sakko": 50
+		},
+		{
+			"nimike": "Liikennejuopumus moottorittomalla ajoneuvolla",
+			"sakko": 10
+		},
+		{
+			"nimike": "Kulkuneuvon kuljettaminen oikeudetta",
+			"sakko": 200
+		},
+		{
+			"nimike": "Liikennepako tieliikenteessä",
+			"sakko": 250
+		}
+	],
+	"vapauteenKohdistuvatRikokset": [
+		{
+			"nimike": "Vapaudenriisto",
+			"sakko": 150
+		},
+		{
+			"nimike": "Törkeä vapaudenriisto",
+			"sakko": 300
+		},
+		{
+			"nimike": "Panttivangin ottaminen",
+			"sakko": 200
+		},
+		{
+			"nimike": "Panttivangin ottamisen valmistelu",
+			"sakko": 125
+		},
+		{
+			"nimike": "Laiton uhkaus",
+			"sakko": 90
+		},
+		{
+			"nimike": "Vainoaminen",
+			"sakko": 90
+		}
+	],
+	"varkausKavallusLuvatonKaytto": [
+		{
+			"nimike": "Varkaus",
+			"sakko": 100
+		},
+		{
+			"nimike": "Törkeä varkaus",
+			"sakko": 175
+		},
+		{
+			"nimike": "Näpistys",
+			"sakko": 30
+		},
+		{
+			"nimike": "Kavallus",
+			"sakko": 30
+		},
+		{
+			"nimike": "Törkeä kavallus",
+			"sakko": 75
+		},
+		{
+			"nimike": "Moottorikulkuneuvon käyttövarkaus",
+			"sakko": 100
+		},
+		{
+			"nimike": "Törkeä moottorikulkuneuvon käyttövarkaus",
+			"sakko": 250
+		},
+		{
+			"nimike": "Luvaton pyynti",
+			"sakko": 15
+		},
+		{
+			"nimike": "Murtovälineen hallussapito",
+			"sakko": 15
+		}
+	],
+	"ryostoJaKiristys": [
+		{
+			"nimike": "Ryöstö",
+			"sakko": 250
+		},
+		{
+			"nimike": "Törkeä ryöstö",
+			"sakko": 400
+		},
+		{
+			"nimike": "Ryöstön valmistelu",
+			"sakko": 75
+		},
+		{
+			"nimike": "Ryöstön yritys",
+			"sakko": 100
+		},
+		{
+			"nimike": "Kiristys",
+			"sakko": 100
+		},
+		{
+			"nimike": "Törkeä kiristys",
+			"sakko": 200
+		},
+		{
+			"nimike": "Murtovarkaus",
+			"sakko": 300
+		}
+	],
+	"yleisvaarallisetRikokset": [
+		{
+			"nimike": "Tuhotyö",
+			"sakko": 100
+		},
+		{
+			"nimike": "Törkeä tuhotyö",
+			"sakko": 150
+		},
+		{
+			"nimike": "Perätön vaarailmoitus",
+			"sakko": 100
+		},
+		{
+			"nimike": "Kaappaus",
+			"sakko": 200
+		}
+	],
+	"vahingonteko": [
+		{
+			"nimike": "Vahingonteko",
+			"sakko": 100
+		},
+		{
+			"nimike": "Törkeä vahingonteko",
+			"sakko": 150
+		}
+	],
+	"ampumaaserikokset": [
+		{
+			"nimike": "Ampuma-aserikos",
+			"sakko": 250
+		},
+		{
+			"nimike": "Törkeä ampuma-aserikos",
+			"sakko": 400
+		},
+		{
+			"nimike": "Toisen vahingoittamiseen soveltuvan esineen tai aineen hallussapito",
+			"sakko": 120
+		}
+	],
+	"luonnonvararikokset": [
+		{
+			"nimike": "Metsästysrikos",
+			"sakko": 100
+		},
+		{
+			"nimike": "Törkeä metsästysrikos",
+			"sakko": 200
+		}
+	],
+	"huumausainerikokset": [
+		{
+			"nimike": "Huumausainerikos",
+			"sakko": 200
+		},
+		{
+			"nimike": "Törkeä huumausainerikos 50-250g",
+			"sakko": 450
+		},
+		{
+			"nimike": "Erittäin törkeä huumausainerikos 250-500g",
+			"sakko": 450
+		},
+		{
+			"nimike": "Erittäin törkeä huumausainerikos 500g->",
+			"sakko": 450
+		},
+		{
+			"nimike": "Huumausainerikoksen edistäminen",
+			"sakko": 200
+		},
+		{
+			"nimike": "Törkeä huumausainerikoksen edistäminen (huumausaineiden valmistaminen)",
+			"sakko": 300
+		}
+	],
+	"erikoistapaukset": {
+		"puolustautuminenJaVoimakeinojenKaytto": [
+			{
+				"nimike": "Hätävarjelun liioittelu",
+				"sakko": 40
+			},
+			{
+				"nimike": "Voimakeinojen käytön liioittelu",
+				"sakko": 60
+			}
+		],
+		"rikoksetIhmisyyttaVastaan": [
+			{
+				"nimike": "Kidutus",
+				"sakko": 300
+			},
+			{
+				"nimike": "Kiihottaminen kansanryhmää vastaan",
+				"sakko": 125
+			},
+			{
+				"nimike": "Syrjintä",
+				"sakko": 100
+			}
+		],
+		"seksuaalirikokset": [
+			{
+				"nimike": "Paritus",
+				"sakko": 300
+			},
+			{
+				"nimike": "Törkeä paritus",
+				"sakko": 500
+			}
+		],
+		"yksityisyydenRauhanJaKunnianLoukkaaminen": [
+			{
+				"nimike": "TöKotirauhan rikkominenitus",
+				"sakko": 50
+			},
+			{
+				"nimike": "Törkeä kotirauhan rikkominen",
+				"sakko": 100
+			},
+			{
+				"nimike": "Julkisrauhan rikkominen",
+				"sakko": 50
+			},
+			{
+				"nimike": "Törkeä julkisrauhan rikkominen",
+				"sakko": 100
+			},
+			{
+				"nimike": "Salakuuntelu",
+				"sakko": 50
+			},
+			{
+				"nimike": "Salakatselu",
+				"sakko": 50
+			},
+			{
+				"nimike": "Salakuuntelun ja salakatselun valmistelu",
+				"sakko": 25
+			},
+			{
+				"nimike": "Kunnianloukkaus",
+				"sakko": 50
+			},
+			{
+				"nimike": "Törkeä kunnianloukkaus",
+				"sakko": 100
+			}
+		],
+		"elinkeinorikokset": [
+			{
+				"nimike": "Yritysvakoilu",
+				"sakko": 25
+			},
+			{
+				"nimike": "Yrityssalaisuuden rikkominen",
+				"sakko": 65
+			},
+			{
+				"nimike": "Kirjanpitorikos",
+				"sakko": 40
+			},
+			{
+				"nimike": "Törkeä kirjanpitorikos",
+				"sakko": 80
+			}
+		],
+		"katkemisJaRahanpesurikokset": [
+			{
+				"nimike": "Kätkemisrikos",
+				"sakko": 25
+			},
+			{
+				"nimike": "Törkeä kätkemisrikos",
+				"sakko": 65
+			},
+			{
+				"nimike": "Rahanpesu",
+				"sakko": 40
+			},
+			{
+				"nimike": "Törkeä rahanpesu",
+				"sakko": 80
+			}
+		],
+		"vaarennysrikokset": [
+			{
+				"nimike": "Väärennys",
+				"sakko": 20
+			},
+			{
+				"nimike": "Törkeä väärennys",
+				"sakko": 40
+			},
+			{
+				"nimike": "Väärennysaineiston hallussapito",
+				"sakko": 10
+			}
+		],
+		"petosJaMuuEparehellisyys": [
+			{
+				"nimike": "Petos",
+				"sakko": 60
+			},
+			{
+				"nimike": "Törkeä petos",
+				"sakko": 120
+			},
+			{
+				"nimike": "Kiskonta",
+				"sakko": 75
+			},
+			{
+				"nimike": "Törkeä kiskonta",
+				"sakko": 145
+			}
+		],
+		"virkarikokset": [
+			{
+				"nimike": "Lahjuksen ottaminen",
+				"sakko": 350
+			},
+			{
+				"nimike": "Törkeä lahjuksen ottaminen",
+				"sakko": 600
+			},
+			{
+				"nimike": "Virka-aseman väärinkäyttäminen",
+				"sakko": 500
+			},
+			{
+				"nimike": "Virkavelvollisuuden rikkominen",
+				"sakko": 500
+			}
+		]
+	}
+}

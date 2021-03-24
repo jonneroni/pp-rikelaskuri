@@ -1,0 +1,36 @@
+{
+	"rikoksetViranomaistaVastaan": [
+		{
+			"nimike": "Virkamiehen vastustaminen",
+			"tuomio": [3]
+		},
+		{
+			"nimike": "Virkamiehen väkivaltainen vastustaminen",
+			"tuomio": [3, 24]
+		},
+		{
+			"nimike": "Virkavallan anastus pukeutuminen",
+			"tuomio": [1, 3]
+		},
+		{
+			"nimike": "Virkavallan anastus tehty rikoksia",
+			"tuomio": [3, 12]
+		},
+		{
+			"nimike": "Vangin vapauttaminen",
+			"tuomio": [12, 24]
+		},
+		{
+			"nimike": "Vangin karkaaminen",
+			"tuomio": [24, 48]
+		},
+		{
+			"nimike": "Vankilaan murtautuminen",
+			"tuomio": [12, 24]
+		},
+		{
+			"nimike": "Virkamiehen kidnappaus / vapaudenriisto",
+			"tuomio": [24, 80]
+		}
+	]
+}
